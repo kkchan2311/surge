@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,tiktok.com
